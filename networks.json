@@ -42,6 +42,27 @@
         ]
     },
     {
+        "name": "Akash",
+        "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/akash.svg?sanitize=true",
+        "links": [
+            {
+                "name": "Mainnet",
+                "chain_id": "akashnet-2",
+                "url": "https://akash.bigdipper.live"
+            },
+            {
+                "name": "Retired",
+                "chain_id": "akashnet-1",
+                "url": "https://akashnet-1.bigdipper.live"
+            },
+            {
+                "name": "Edgenet",
+                "chain_id": "akashnet-2-testnet-2",
+                "url": "https://edgenet.akash.bigdipper.live"
+            }
+        ]
+    },
+    {
         "name": "e-Money",
         "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/e-money.svg?sanitize=true",
         "links": [
@@ -53,13 +74,24 @@
         ]
     },
     {
-        "name": "IOV",
+        "name": "Starname (IOV)",
         "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/iov.svg?sanitize=true",
         "links": [
             {
                 "name": "Mainnet",
                 "chain_id": "iov-mainnet-2",
                 "url": "https://big-dipper.iov-mainnet-2.iov.one/"
+            }
+        ]
+    },
+    {
+        "name": "Band Protocol",
+        "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/band.svg?sanitize=true",
+        "links": [
+            {
+                "name": "Mainnet",
+                "chain_id": "band-guanyu-mainnet",
+                "url": "https://band.bigdipper.live"
             }
         ]
     },
@@ -85,22 +117,6 @@
         ]
     },
     {
-        "name": "Band Protocol",
-        "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/band.svg?sanitize=true",
-        "links": [
-            {
-                "name": "Mainnet",
-                "chain_id": "band-guanyu-mainnet",
-                "url": "https://band.bigdipper.live"
-            },
-            {
-                "name": "Retired",
-                "chain_id": "band-wenchang-mainnet",
-                "url": "https://wenchang.band.bigdipper.live"
-            }
-        ]
-    },
-    {
         "name": "LikeCoin",
         "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/likecoin.svg?sanitize=true",
         "links": [
@@ -117,27 +133,6 @@
         ]
     },
     {
-        "name": "Akash",
-        "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/akash.svg?sanitize=true",
-        "links": [
-            {
-                "name": "Mainnet",
-                "chain_id": "akashnet-2",
-                "url": "https://akash.bigdipper.live"
-            },
-            {
-                "name": "Retired",
-                "chain_id": "akashnet-1",
-                "url": "https://akashnet-1.bigdipper.live"
-            },
-            {
-                "name": "Edgenet",
-                "chain_id": "akashnet-2-testnet-2",
-                "url": "https://edgenet.akash.bigdipper.live"
-            }
-        ]
-    },
-    {
         "name": "StraightEdge",
         "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/straightedge.svg?sanitize=true",
         "links": [
@@ -145,6 +140,17 @@
                 "name": "Mainnet",
                 "chain_id": "straightedge-2",
                 "url": "http://explorer.straighted.ge/"
+            }
+        ]
+    },
+    {
+        "name": "Fetch.AI",
+        "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/fetch.ai.svg?sanitize=true",
+        "links": [
+            {
+                "name": "Mainnet",
+                "chain_id": "fetchhub-1",
+                "url": "https://explore.fetch.ai/"
             }
         ]
     },
