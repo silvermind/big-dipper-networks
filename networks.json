@@ -175,5 +175,16 @@
                 "url": "https://celo.bigdipper.live"
             }
         ]
+    },
+    {
+        "name": "Flow",
+        "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/flow.svg?sanitize=true",
+        "links": [
+            {
+                "name": "Mainnet",
+                "chain_id": "Mainnet",
+                "url": "https://flow.bigdipper.live/"
+            }
+        ]
     }
 ]
