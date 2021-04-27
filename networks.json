@@ -153,8 +153,8 @@
         "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/desmos.svg?sanitize=true",
         "links": [
             {
-                "name": "Incentivized Testnet",
-                "chain_id": "morpheus-13001",
+                "name": "Testnet",
+                "chain_id": "morpheus-apollo-1",
                 "url": "https://morpheus.desmos.network"
             }
         ]
