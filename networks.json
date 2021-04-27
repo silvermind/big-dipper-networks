@@ -69,7 +69,7 @@
             {
                 "name": "Mainnet",
                 "chain_id": "emoney-2",
-                "url": "https://e-money.network/"
+                "url": "https://e-money.network"
             }
         ]
     },
@@ -80,7 +80,7 @@
             {
                 "name": "Mainnet",
                 "chain_id": "iov-mainnet-2",
-                "url": "https://big-dipper.iov-mainnet-2.iov.one/"
+                "url": "https://big-dipper.iov-mainnet-2.iov.one"
             }
         ]
     },
@@ -139,7 +139,7 @@
             {
                 "name": "Mainnet",
                 "chain_id": "straightedge-2",
-                "url": "http://explorer.straighted.ge/"
+                "url": "http://explorer.straighted.ge"
             }
         ]
     },
@@ -162,6 +162,17 @@
                 "name": "Testnet",
                 "chain_id": "morpheus-apollo-1",
                 "url": "https://morpheus.desmos.network"
+            }
+        ]
+    },
+    {
+        "name": "Celo",
+        "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/celo.svg?sanitize=true",
+        "links": [
+            {
+                "name": "Mainnet",
+                "chain_id": "Mainnet",
+                "url": "https://celo.bigdipper.live"
             }
         ]
     }
