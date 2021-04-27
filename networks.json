@@ -1,7 +1,7 @@
 [
     {
         "name": "Cosmos Hub",
-        "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/8178b6bcce1d1563bac10f8a150c713724a742f1/cosmoshub.svg?sanitize=true",
+        "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/cosmoshub.svg?sanitize=true",
         "links": [
             {
                 "name": "Mainnet",
@@ -32,7 +32,7 @@
     },
     {
         "name": "IRISnet",
-        "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/8178b6bcce1d1563bac10f8a150c713724a742f1/irishub.svg?sanitize=true",
+        "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/irishub.svg?sanitize=true",
         "links": [
             {
                 "name": "Mainnet",
