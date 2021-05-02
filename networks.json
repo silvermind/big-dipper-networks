@@ -38,8 +38,13 @@
         "links": [
             {
                 "name": "Mainnet",
-                "chain_id": "irishub",
+                "chain_id": "irishub-1",
                 "url": "https://iris.bigdipper.live"
+            },
+            {
+                "name": "Mainnet",
+                "chain_id": "irishub",
+                "url": "https://iris-betanet.bigdipper.live"
             }
         ]
     },
