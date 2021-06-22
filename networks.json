@@ -216,5 +216,17 @@
                 "url": "https://crypto-org.bigdipper.live/"
             }
         ]
+    },
+    {
+        "name": "Osmosis",
+        "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/osmosis.svg?sanitize=true",
+        "cover": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/covers/osmosis.png?sanitize=true",
+        "links": [
+            {
+                "name": "Mainnet",
+                "chain_id": "osmosis-1",
+                "url": "https://osmosis.bigdipper.live/"
+            }
+        ]
     }
 ]
