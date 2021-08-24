@@ -88,9 +88,14 @@
         "cover": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/covers/iov.png?sanitize=true",
         "links": [
             {
-                "name": "Mainnet",
+                "name": "Retired",
                 "chain_id": "iov-mainnet-2",
                 "url": "https://big-dipper.iov-mainnet-2.iov.one"
+            },
+            {
+                "name": "Mainnet",
+                "chain_id": "iov-mainnet-ibc",
+                "url": "https://big-dipper.iov-mainnet-ibc.iov.one/"
             }
         ]
     },
