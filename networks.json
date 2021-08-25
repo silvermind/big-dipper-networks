@@ -140,13 +140,13 @@
         "links": [
             {
                 "name": "Mainnet",
-                "chain_id": "likecoin-chain-sheungwan",
+                "chain_id": "likecoin-mainnet-2",
                 "url": "https://likecoin.bigdipper.live"
             },
             {
                 "name": "Testnet",
-                "chain_id": "likechain-testnet-taipei-1",
-                "url": "https://taipei.likecoin.bigdipper.live"
+                "chain_id": "likecoin-public-testnet-3",
+                "url": "https://testnet.likecoin.bigdipper.live"
             }
         ]
     },
@@ -181,7 +181,7 @@
         "links": [
             {
                 "name": "Testnet",
-                "chain_id": "morpheus-apollo-1",
+                "chain_id": "morpheus-apollo-2",
                 "url": "https://morpheus.desmos.network"
             }
         ]
