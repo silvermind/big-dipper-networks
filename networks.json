@@ -175,7 +175,7 @@
         ]
     },
     {
-        "name": "DESMOS",
+        "name": "desmos",
         "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/desmos.svg?sanitize=true",
         "cover": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/covers/desmos.png?sanitize=true",
         "links": [
@@ -183,7 +183,12 @@
                 "name": "Testnet",
                 "chain_id": "morpheus-apollo-2",
                 "url": "https://morpheus.desmos.network"
-            }
+            },
+            {
+                "name": "Mainnet",
+                "chain_id": "desmos-mainnet",
+                "url": "https://explorer.desmos.network"
+            },
         ]
     },
     {
