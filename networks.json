@@ -77,8 +77,8 @@
         "links": [
             {
                 "name": "Mainnet",
-                "chain_id": "emoney-2",
-                "url": "https://e-money.network"
+                "chain_id": "emoney-3",
+                "url": "https://emoney.bigdipper.live"
             }
         ]
     },
