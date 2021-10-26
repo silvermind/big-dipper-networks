@@ -238,5 +238,17 @@
                 "url": "https://osmosis.bigdipper.live/"
             }
         ]
+    },
+    {
+        "name": "Bitsong",
+        "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/bitsong.svg?sanitize=true",
+        "cover": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/covers/bitsong.png?sanitize=true",
+        "links": [
+            {
+                "name": "Mainnet",
+                "chain_id": "bitsong-1",
+                "url": "https://bitsong.bigdipper.live/"
+            }
+        ]
     }
 ]
