@@ -105,10 +105,15 @@
         "cover": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/covers/band-protocol.png?sanitize=true",
         "links": [
             {
-                "name": "Mainnet",
+                "name": "Retired",
                 "chain_id": "band-guanyu-mainnet",
+                "url": "https://band-guanyu.bigdipper.live"
+            },
+            {
+                "name": "Mainnet",
+                "chain_id": "laozi-mainnet",
                 "url": "https://band.bigdipper.live"
-            }
+            },
         ]
     },
     {
