@@ -243,5 +243,17 @@
                 "url": "https://bitsong.bigdipper.live/"
             }
         ]
+    },
+    {
+        "name": "Regen",
+        "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/regen.png?sanitize=true",
+        "cover": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/covers/regen.png?sanitize=true",
+        "links": [
+            {
+                "name": "Mainnet",
+                "chain_id": "regen-1",
+                "url": "https://regen.bigdipper.live/"
+            }
+        ]
     }
 ]
