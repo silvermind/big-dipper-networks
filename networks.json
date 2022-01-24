@@ -255,5 +255,17 @@
                 "url": "https://regen.bigdipper.live/"
             }
         ]
+    },
+    {
+        "name": "Agoric",
+        "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/agoric.png?sanitize=true",
+        "cover": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/covers/agoric.png?sanitize=true",
+        "links": [
+            {
+                "name": "Mainnet",
+                "chain_id": "agoric-3",
+                "url": "https://agoric.bigdipper.live/"
+            }
+        ]
     }
 ]
