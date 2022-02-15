@@ -267,5 +267,17 @@
                 "url": "https://agoric.bigdipper.live/"
             }
         ]
+    },
+    {
+        "name": "Rizon",
+        "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/rizon.png?sanitize=true",
+        "cover": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/covers/rizon.png?sanitize=true",
+        "links": [
+            {
+                "name": "Mainnet",
+                "chain_id": "titan-1",
+                "url": "https://rizon.bigdipper.live/"
+            }
+        ]
     }
 ]
