@@ -279,5 +279,22 @@
                 "url": "https://rizon.bigdipper.live/"
             }
         ]
+    },
+    {
+        "name": "Evmos",
+        "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/evmos.svg?sanitize=true",
+        "cover": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/covers/evmos.png?sanitize=true",
+        "links": [
+            {
+                "name": "Mainnet",
+                "chain_id": "evmos_9001-1",
+                "url": "https://evmos.bigdipper.live/"
+            },
+            {
+                "name": "Testnet",
+                "chain_id": "evmos_9000-3",
+                "url": "https://testnet.evmos.bigdipper.live/"
+            }
+        ]
     }
 ]
