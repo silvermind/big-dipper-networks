@@ -64,9 +64,9 @@
                 "url": "https://akashnet-1.bigdipper.live"
             },
             {
-                "name": "Edgenet",
-                "chain_id": "akashnet-2-testnet-2",
-                "url": "https://edgenet.akash.bigdipper.live"
+                "name": "Testnet",
+                "chain_id": "edgenet-1",
+                "url": "https://testnet.akash.bigdipper.live/"
             }
         ]
     },
