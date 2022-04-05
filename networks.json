@@ -150,7 +150,7 @@
             },
             {
                 "name": "Testnet",
-                "chain_id": "likecoin-public-testnet-3",
+                "chain_id": "likecoin-public-testnet-4",
                 "url": "https://testnet.likecoin.bigdipper.live"
             }
         ]
