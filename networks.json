@@ -31,23 +31,6 @@
             }
         ]
     },
-    // {
-    //     "name": "IRISnet",
-    //     "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/irishub.svg?sanitize=true",
-    //     "cover": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/covers/IRISnet.png?sanitize=true",
-    //     "links": [
-    //         {
-    //             "name": "Mainnet",
-    //             "chain_id": "irishub-1",
-    //             "url": "https://iris.bigdipper.live"
-    //         },
-    //         {
-    //             "name": "Retired",
-    //             "chain_id": "irishub",
-    //             "url": "https://iris-betanet.bigdipper.live"
-    //         }
-    //     ]
-    // },
     {
         "name": "Akash",
         "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/akash.svg?sanitize=true",
@@ -62,11 +45,6 @@
                 "name": "Retired",
                 "chain_id": "akashnet-1",
                 "url": "https://akashnet-1.bigdipper.live"
-            },
-            {
-                "name": "Testnet",
-                "chain_id": "edgenet-1",
-                "url": "https://testnet.akash.bigdipper.live/"
             }
         ]
     },
