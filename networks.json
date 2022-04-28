@@ -277,7 +277,7 @@
         "links": [
             {
                 "name": "Mainnet",
-                "chain_id": "evmos_9001-1",
+                "chain_id": "evmos_9001-2",
                 "url": "https://evmos.bigdipper.live/"
             },
             {
