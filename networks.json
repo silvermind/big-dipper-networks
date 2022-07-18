@@ -323,7 +323,7 @@
         "links": [
             {
                 "name": "Mainnet",
-                "chain_id": "mainnet",
+                "chain_id": "mainnet-beta",
                 "url": "https://solana.bigdipper.live/"
             }
         ]
