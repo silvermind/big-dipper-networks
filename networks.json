@@ -223,7 +223,7 @@
         ]
     },
     {
-        "name": "Regen",
+        "name": "Regen Network",
         "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/regen.png?sanitize=true",
         "cover": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/covers/regen.png?sanitize=true",
         "links": [
@@ -288,7 +288,7 @@
         ]
     },
     {
-        "name": "cheqd Network",
+        "name": "Cheqd",
         "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/cheqd.png?sanitize=true",
         "cover": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/covers/cheqd.png?sanitize=true",
         "links": [
@@ -301,6 +301,54 @@
                 "name": "Testnet",
                 "chain_id": "cheqd-testnet-4",
                 "url": "https://testnet-explorer.cheqd.io"
+            }
+        ]
+    },
+    {
+        "name": "Comdex",
+        "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/comdex.png?sanitize=true",
+        "cover": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/covers/comdex.png?sanitize=true",
+        "links": [
+            {
+                "name": "Mainnet",
+                "chain_id": "comdex-1",
+                "url": "https://comdex.bigdipper.live/"
+            }
+        ]
+    },
+    {
+        "name": "Solana",
+        "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/solana.png?sanitize=true",
+        "cover": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/covers/solana.png?sanitize=true",
+        "links": [
+            {
+                "name": "Mainnet",
+                "chain_id": "mainnet",
+                "url": "https://solana.bigdipper.live/"
+            }
+        ]
+    },
+    {
+        "name": "Crescent",
+        "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/crescent.png?sanitize=true",
+        "cover": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/covers/crescent.png?sanitize=true",
+        "links": [
+            {
+                "name": "Mainnet",
+                "chain_id": "crescent-1",
+                "url": "https://crescent.bigdipper.live/"
+            }
+        ]
+    },
+    {
+        "name": "Sifchain",
+        "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/sifchain.png?sanitize=true",
+        "cover": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/covers/sifchain.png?sanitize=true",
+        "links": [
+            {
+                "name": "Mainnet",
+                "chain_id": "sifchain-1",
+                "url": "https://sifchain.bigdipper.live/"
             }
         ]
     }
