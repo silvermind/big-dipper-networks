@@ -306,7 +306,7 @@
     },
     {
         "name": "Comdex",
-        "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/comdex.png?sanitize=true",
+        "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/comdex.svg?sanitize=true",
         "cover": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/covers/comdex.png?sanitize=true",
         "links": [
             {
@@ -318,7 +318,7 @@
     },
     {
         "name": "Solana",
-        "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/solana.png?sanitize=true",
+        "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/solana.svg?sanitize=true",
         "cover": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/covers/solana.png?sanitize=true",
         "links": [
             {
@@ -330,7 +330,7 @@
     },
     {
         "name": "Crescent",
-        "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/crescent.png?sanitize=true",
+        "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/crescent.svg?sanitize=true",
         "cover": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/covers/crescent.png?sanitize=true",
         "links": [
             {
@@ -342,7 +342,7 @@
     },
     {
         "name": "Sifchain",
-        "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/sifchain.png?sanitize=true",
+        "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/sifchain.svg?sanitize=true",
         "cover": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/covers/sifchain.png?sanitize=true",
         "links": [
             {
