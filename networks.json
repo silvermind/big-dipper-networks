@@ -107,7 +107,7 @@
             {
                 "name": "Mainnet",
                 "chain_id": "likecoin-mainnet-2",
-                "url": "https://likecoin.bigdipper.live"
+                "url": "https://bigdipper.live/likecoin"
             },
             {
                 "name": "Testnet",
@@ -225,7 +225,7 @@
             {
                 "name": "Mainnet",
                 "chain_id": "titan-1",
-                "url": "https://rizon.bigdipper.live/"
+                "url": "https://bigdipper.live/rizon"
             }
         ]
     },
@@ -319,7 +319,7 @@
             {
                 "name": "Mainnet",
                 "chain_id": "sifchain-1",
-                "url": "https://sifchain.bigdipper.live/"
+                "url": "https://bigdipper.live/sifchain"
             }
         ]
     }
