@@ -61,23 +61,6 @@
         ]
     },
     {
-        "name": "Starname (IOV)",
-        "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/iov.svg?sanitize=true",
-        "cover": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/covers/iov.png?sanitize=true",
-        "links": [
-            {
-                "name": "Retired",
-                "chain_id": "iov-mainnet-2",
-                "url": "https://big-dipper.iov-mainnet-2.iov.one"
-            },
-            {
-                "name": "Mainnet",
-                "chain_id": "iov-mainnet-ibc",
-                "url": "https://big-dipper.iov-mainnet-ibc.iov.one/"
-            }
-        ]
-    },
-    {
         "name": "Band Protocol",
         "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/band.svg?sanitize=true",
         "cover": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/covers/band-protocol.png?sanitize=true",
@@ -130,18 +113,6 @@
                 "name": "Testnet",
                 "chain_id": "likecoin-public-testnet-5",
                 "url": "https://testnet.likecoin.bigdipper.live"
-            }
-        ]
-    },
-    {
-        "name": "StraightEdge",
-        "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/straightedge.svg?sanitize=true",
-        "cover": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/covers/straight-edge.png?sanitize=true",
-        "links": [
-            {
-                "name": "Mainnet",
-                "chain_id": "straightedge-2",
-                "url": "http://explorer.straighted.ge"
             }
         ]
     },
