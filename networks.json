@@ -151,18 +151,6 @@
     ]
   },
   {
-    "name": "Flow",
-    "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/flow.svg?sanitize=true",
-    "cover": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/covers/flow.png?sanitize=true",
-    "links": [
-      {
-        "name": "Mainnet",
-        "chain_id": "likecoin-mainnet-2",
-        "url": "https://flow.bigdipper.live/"
-      }
-    ]
-  },
-  {
     "name": "Crypto.org Chain",
     "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/crypto.org.svg?sanitize=true",
     "cover": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/covers/crypto.png?sanitize=true",
