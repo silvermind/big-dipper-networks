@@ -293,18 +293,6 @@
     ]
   },
   {
-    "name": "Sifchain",
-    "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/sifchain.svg?sanitize=true",
-    "cover": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/covers/sifchain.png?sanitize=true",
-    "links": [
-      {
-        "name": "Mainnet",
-        "chain_id": "sifchain-1",
-        "url": "https://bigdipper.live/sifchain"
-      }
-    ]
-  },
-  {
     "name": "AssetMantle",
     "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/assetmantle.svg?sanitize=true",
     "cover": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/covers/assetmantle.png?sanitize=true",
