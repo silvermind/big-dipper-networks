@@ -192,8 +192,8 @@
   },
   {
     "name": "MultiversX",
-    "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/multiversx.png?sanitize=true",
-    "cover": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/covers/multiversx.png?sanitize=true",
+    "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/multiversx.svg?sanitize=true",
+    "cover": "",
     "links": [
       {
         "name": "Mainnet",
@@ -351,7 +351,7 @@
   },
   {
     "name": "NYM",
-    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/nym/images/nym.svg",
+    "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/nym.svg?sanitize=true",
     "cover": "",
     "links": [
       {
@@ -363,7 +363,7 @@
   },
   {
     "name": "Quicksilver",
-    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksliver/images/quicksliver.svg",
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksliver/images/quicksliver.svg?sanitize=true",
     "cover": "",
     "links": [
       {
