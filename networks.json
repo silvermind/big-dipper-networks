@@ -1,18 +1,5 @@
 [
   {
-    "name": "Cosmos Hub",
-    "chainName": "cosmos",
-    "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/cosmoshub.svg?sanitize=true",
-    "cover": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/covers/cosmos.png?sanitize=true",
-    "links": [
-      {
-        "name": "Mainnet",
-        "chain_id": "cosmoshub-4",
-        "url": "https://localhost:3000/cosmos"
-      }
-    ]
-  },
-  {
     "name": "Kujira",
     "chainName": "kujira",
     "logo": "https://3949068434-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FyPeco0BDFBM85kKY4Hkl%2Fuploads%2F6amzyoEZ0hGotvfiHnYj%2Fkujira-network.svg?alt=media&token=f5433863-ca0b-4bda-8984-fd25eeec48ac",
@@ -21,7 +8,7 @@
       {
         "name": "Mainnet",
         "chain_id": "kaiyo-1",
-        "url": "https://localhost:3000/kuji"
+        "url": "http://localhost:3000/kuji"
       }
     ]
   },  
@@ -34,7 +21,7 @@
       {
         "name": "Mainnet",
         "chain_id": "migaloo-1",
-        "url": "https://localhost:3000/migaloo"
+        "url": "http://localhost:3000/migaloo"
       }
     ]
   },  
