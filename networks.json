@@ -8,26 +8,37 @@
       {
         "name": "Mainnet",
         "chain_id": "cosmoshub-4",
-        "url": "https://bigdipper.live/cosmos"
-      },
-      {
-        "name": "Retired",
-        "chain_id": "cosmoshub-3",
-        "url": "https://cosmoshub-3.bigdipper.live"
-      },
-      {
-        "name": "Retired",
-        "chain_id": "cosmoshub-2",
-        "url": "https://cosmoshub-2.bigdipper.live"
-      },
-      {
-        "name": "Retired",
-        "chain_id": "cosmoshub-1",
-        "url": "https://cosmoshub-1.bigdipper.live"
+        "url": "https://localhost:3000/cosmos"
       }
     ]
   },
   {
+    "name": "Kujira",
+    "chainName": "kujira",
+    "logo": "https://3949068434-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FyPeco0BDFBM85kKY4Hkl%2Fuploads%2F6amzyoEZ0hGotvfiHnYj%2Fkujira-network.svg?alt=media&token=f5433863-ca0b-4bda-8984-fd25eeec48ac",
+    "cover": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/covers/cosmos.png?sanitize=true",
+    "links": [
+      {
+        "name": "Mainnet",
+        "chain_id": "kaiyo-1",
+        "url": "https://localhost:3000/kuji"
+      }
+    ]
+  },  
+  {
+    "name": "Migaloo",
+    "chainName": "migaloo",
+    "logo": "https://481591702-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FO57BqrR075yBZrhzCA4c%2Fuploads%2Fgit-blob-4d0e42445d0f7a31e90a5904c73587cbe7a7f962%2Fmigaloo.svg?alt=media",
+    "cover": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/covers/cosmos.png?sanitize=true",
+    "links": [
+      {
+        "name": "Mainnet",
+        "chain_id": "migaloo-1",
+        "url": "https://localhost:3000/migaloo"
+      }
+    ]
+  },  
+  {    
     "name": "Akash",
     "chainName": "akash",
     "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/akash.svg?sanitize=true",
