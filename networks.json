@@ -8,7 +8,7 @@
       {
         "name": "Mainnet",
         "chain_id": "kaiyo-1",
-        "url": "http://localhost:3000/kuji"
+        "url": "http://localhost:3000"
       }
     ]
   },  
@@ -21,7 +21,7 @@
       {
         "name": "Mainnet",
         "chain_id": "migaloo-1",
-        "url": "http://localhost:3000/migaloo"
+        "url": "http://localhost:3001"
       }
     ]
   },  
